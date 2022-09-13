@@ -4,7 +4,7 @@ A Chat App built with React and Firebase.
 
 ## Demo
 
-[Link]()
+[Link](https://sprightly-babka-397d79.netlify.app/)
 
 ## Getting Started
 
