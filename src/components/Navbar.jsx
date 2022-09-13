@@ -12,8 +12,6 @@ const styles = {
 const Navbar = () => {
 	const [user] = useAuthState(auth);
 
-	console.log(user);
-
 	return (
 		<div className={styles.nav}>
 			<h1 className={styles.heading}>Chat App</h1>
